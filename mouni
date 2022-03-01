@@ -1,0 +1,36 @@
+Linux commands Touch,CAT,VI
+
+Touch
+=====
+touch file1
+ls
+touch file2 file3
+rm file1   (to delete file)
+CAT
+====
+cat > file4
+...
+...
+ctrl+delete
+
+ls
+
+cat file4
+
+cat >> file4
+...
+...
+ctrl+delete
+
+VI
+===
+vi file7
+--------
+esc i
+...
+...
+esc :w!
+esc :q!
+or
+esc :wq!
+
